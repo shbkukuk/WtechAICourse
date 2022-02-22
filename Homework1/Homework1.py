@@ -1,3 +1,7 @@
+#author = Suha Berk Kukuk
+#email = shbkukuk@gmail.com
+#Project = find the route between two cities using A*-search algorithm
+
 import csv
 import tqdm
 from collections import defaultdict
