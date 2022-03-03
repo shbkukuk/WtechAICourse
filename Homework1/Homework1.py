@@ -130,4 +130,4 @@ def create_graph(path):
 
 
 if __name__ == '__main__':  
-    calculateRoute(['Istanbul','Ankara'],'distances.csv')
+    calculateRoute(['Istanbul','Eskisehir'],'Homework1\distances.csv')
