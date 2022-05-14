@@ -40,5 +40,5 @@
 
 # Certificate 
 <a target="blank" href="https://verified.cv/tr/verify/09432086076152?ref=email">
-      <img src="https://api.sertifier.com/userdata/08d8dc7a-50bb-3ba6-8a25-d69603339282/3e5d47e7-8370-4bcb-b2a3-7314d8e6915d.png" alt="">
+      <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/09432086076152.png" alt="">
     </a>
